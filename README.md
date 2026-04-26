@@ -1,6 +1,6 @@
-# PTI: Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models
+# Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models 
 
-This is the official implementation of the paper "Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models" (CVPR 2026).
+This is the official implementation of the paper "Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models" (CVPR 2026 main).
 
 ## Overview
 
