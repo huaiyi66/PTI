@@ -2,6 +2,8 @@
 
 This is the official implementation of the paper "Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models" (CVPR 2026 main).
 
+[[arXiv]](https://arxiv.org/abs/2604.25642)
+
 ## Overview
 
 PTI is a training-free, plug-and-play inference-time intervention framework that mitigates hallucinations in Large Vision-Language Models (LVLMs) by operating at the **prefill stage** rather than the decoding stage.
@@ -146,4 +148,20 @@ This project builds upon the following excellent works:
 - [VTI](https://github.com/opendatalab/VTI)
 - [Cache Steering](https://github.com/MaxBelitsky/cache-steering)
 - [LLaVA](https://github.com/haotian-liu/LLaVA)
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{zhang2026prefilltimeinterventionmitigatinghallucination,
+      title={Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models}, 
+      author={Chengsheng Zhang and Chenghao Sun and Xinyan Jiang and Wei Li and Xinmei Tian},
+      year={2026},
+      eprint={2604.25642},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.25642}, 
+}
+```
 
